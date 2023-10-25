@@ -1,0 +1,31 @@
+ER/Studio Data Architect Generate Database Facility Messages
+ 
+Script: D:\dadabi\Midterm Team Project\ER Studio\PhysicalModel_MySQL.sql
+ 
+Date/Time: Thu Oct 19 01:22:59 2023
+--------------------------------------------------------
+
+Generating Dependencies ...
+   Dependency Sql
+
+Generating Tables ...
+
+Generating Views ...
+
+Generating Indexes ...
+
+Generating Foreign Keys ...
+   DIM_Address
+   DIM_Date
+   DIM_RestaurantDetails
+   DIM_ViolationInspectionType
+   DIM_Violations
+   FCT_FoodInspection
+
+Generating Model Post SQL ...
+   Model Post Sql
+Ending time: Thu Oct 19 01:22:59 2023
+ 
+ 
+Code Generation Complete
+ 

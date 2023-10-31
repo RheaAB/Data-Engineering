@@ -1,0 +1,45 @@
+{
+  "itemId" : "_LR5DUHT9Ee6n3uO9VgyigA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_7bhgMHT_Ee6n3uO9VgyigA",
+    "parameterList" : [ {
+      "id" : "_7b-MIXT_Ee6n3uO9VgyigA",
+      "name" : "mysql_Port"
+    }, {
+      "id" : "_7b-MInT_Ee6n3uO9VgyigA",
+      "name" : "mysql_Server"
+    }, {
+      "id" : "_7b-MI3T_Ee6n3uO9VgyigA",
+      "name" : "mysql_AdditionalParams"
+    }, {
+      "id" : "_7b-MJHT_Ee6n3uO9VgyigA",
+      "name" : "mysql_Database"
+    }, {
+      "id" : "_7b-MJXT_Ee6n3uO9VgyigA",
+      "name" : "mysql_Login"
+    }, {
+      "id" : "_7b-MJnT_Ee6n3uO9VgyigA",
+      "name" : "mysql_Password"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_7Z41wHUxEe6VfO540ijYDg",
+    "parameterList" : [ {
+      "id" : "_7aLws3UxEe6VfO540ijYDg",
+      "name" : "ProductCost_FieldSeparator"
+    }, {
+      "id" : "_7aLwsXUxEe6VfO540ijYDg",
+      "name" : "ProductCost_Encoding"
+    }, {
+      "id" : "_7aLwsnUxEe6VfO540ijYDg",
+      "name" : "ProductCost_RowSeparator"
+    }, {
+      "id" : "_7aLwtHUxEe6VfO540ijYDg",
+      "name" : "ProductCost_Header"
+    }, {
+      "id" : "_7aLwtXUxEe6VfO540ijYDg",
+      "name" : "ProductCost_File"
+    } ]
+  } ]
+}

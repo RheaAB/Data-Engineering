@@ -1,0 +1,23 @@
+{
+  "itemId" : "_kc_gQHHQEe6u4oe2qHEsBQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_dwi2YHHQEe6u4oe2qHEsBQ",
+    "parameterList" : [ {
+      "id" : "_dxfRkXHQEe6u4oe2qHEsBQ",
+      "name" : "GeoCodes_File"
+    }, {
+      "id" : "_dxfRknHQEe6u4oe2qHEsBQ",
+      "name" : "GeoCodes_FieldSeparator"
+    }, {
+      "id" : "_dxfRk3HQEe6u4oe2qHEsBQ",
+      "name" : "GeoCodes_RowSeparator"
+    }, {
+      "id" : "_dxfRlHHQEe6u4oe2qHEsBQ",
+      "name" : "GeoCodes_Encoding"
+    }, {
+      "id" : "_dxfRlXHQEe6u4oe2qHEsBQ",
+      "name" : "GeoCodes_Header"
+    } ]
+  } ]
+}

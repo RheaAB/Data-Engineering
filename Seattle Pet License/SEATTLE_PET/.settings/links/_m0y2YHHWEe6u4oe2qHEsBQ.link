@@ -1,0 +1,70 @@
+{
+  "itemId" : "_m0y2YHHWEe6u4oe2qHEsBQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_dwi2YHHQEe6u4oe2qHEsBQ",
+    "parameterList" : [ {
+      "id" : "_dxfRkXHQEe6u4oe2qHEsBQ",
+      "name" : "GeoCodes_File"
+    }, {
+      "id" : "_dxfRknHQEe6u4oe2qHEsBQ",
+      "name" : "GeoCodes_FieldSeparator"
+    }, {
+      "id" : "_dxfRk3HQEe6u4oe2qHEsBQ",
+      "name" : "GeoCodes_RowSeparator"
+    }, {
+      "id" : "_dxfRlHHQEe6u4oe2qHEsBQ",
+      "name" : "GeoCodes_Encoding"
+    }, {
+      "id" : "_dxfRlXHQEe6u4oe2qHEsBQ",
+      "name" : "GeoCodes_Header"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_0BAYkG_fEe6AXIc7iYVq-w",
+    "parameterList" : [ {
+      "id" : "_0BQQN2_fEe6AXIc7iYVq-w",
+      "name" : "azure_t1_Schema"
+    }, {
+      "id" : "_0BQQNW_fEe6AXIc7iYVq-w",
+      "name" : "azure_t1_Server"
+    }, {
+      "id" : "_0BQQNm_fEe6AXIc7iYVq-w",
+      "name" : "azure_t1_Port"
+    }, {
+      "id" : "_0BQQNG_fEe6AXIc7iYVq-w",
+      "name" : "azure_t1_Login"
+    }, {
+      "id" : "_0BQQM2_fEe6AXIc7iYVq-w",
+      "name" : "azure_t1_AdditionalParams"
+    }, {
+      "id" : "_0BQQMm_fEe6AXIc7iYVq-w",
+      "name" : "azure_t1_Password"
+    }, {
+      "id" : "_0BQQMW_fEe6AXIc7iYVq-w",
+      "name" : "azure_t1_Database"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_6hFKQG-mEe6IsMJuX0PKog",
+    "parameterList" : [ {
+      "id" : "_6hW3E2-mEe6IsMJuX0PKog",
+      "name" : "mysql_t1_Port"
+    }, {
+      "id" : "_6hW3Em-mEe6IsMJuX0PKog",
+      "name" : "mysql_t1_Login"
+    }, {
+      "id" : "_6hW3FG-mEe6IsMJuX0PKog",
+      "name" : "mysql_t1_Database"
+    }, {
+      "id" : "_6hW3FW-mEe6IsMJuX0PKog",
+      "name" : "mysql_t1_Password"
+    }, {
+      "id" : "_6hW3Fm-mEe6IsMJuX0PKog",
+      "name" : "mysql_t1_AdditionalParams"
+    }, {
+      "id" : "_6hW3EW-mEe6IsMJuX0PKog",
+      "name" : "mysql_t1_Server"
+    } ]
+  } ]
+}

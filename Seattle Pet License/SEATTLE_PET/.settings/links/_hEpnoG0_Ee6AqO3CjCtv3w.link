@@ -1,0 +1,23 @@
+{
+  "itemId" : "_hEpnoG0_Ee6AqO3CjCtv3w",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_aW3nAHHfEe6u4oe2qHEsBQ",
+    "parameterList" : [ {
+      "id" : "_aXstcXHfEe6u4oe2qHEsBQ",
+      "name" : "SeattlePet_File"
+    }, {
+      "id" : "_aXstcnHfEe6u4oe2qHEsBQ",
+      "name" : "SeattlePet_FieldSeparator"
+    }, {
+      "id" : "_aXstc3HfEe6u4oe2qHEsBQ",
+      "name" : "SeattlePet_RowSeparator"
+    }, {
+      "id" : "_aXstdHHfEe6u4oe2qHEsBQ",
+      "name" : "SeattlePet_Encoding"
+    }, {
+      "id" : "_aXstdXHfEe6u4oe2qHEsBQ",
+      "name" : "SeattlePet_Header"
+    } ]
+  } ]
+}
